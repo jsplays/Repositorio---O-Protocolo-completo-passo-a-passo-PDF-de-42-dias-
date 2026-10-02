@@ -1,0 +1,6 @@
+{
+  "name": "Protocolo Verão 42 - Método C.A.S.A.",
+  "description": "Mini App interativo e personalizável para o Protocolo Verão 42: cardápio de 42 dias, rastreador diário de hábitos, montador de pratos e lista de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
